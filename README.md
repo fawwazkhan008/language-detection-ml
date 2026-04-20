@@ -19,7 +19,7 @@ The system can be useful in:
 
 ## 📁 Dataset Description
 
-* **File:** `https://github.com/fawwazkhan008/language-detection-ml/blob/main/language.csv`
+* **File:** `language.csv`
 * **Total Records:** 22,000
 * **Languages Covered:** 22
 
@@ -71,12 +71,7 @@ language-detection-ml/
 ## 📸 Project Preview
 
 ### 🔹 Model Accuracy
-
-*Add screenshot of accuracy output here (model.score)*
-
-### 🔹 Language Prediction
-
-*Add screenshot of prediction example (user input → output)*
+> ![alt text](image.png)
 
 ---
 
