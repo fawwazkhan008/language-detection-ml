@@ -19,7 +19,7 @@ The system can be useful in:
 
 ## 📁 Dataset Description
 
-* **File:** `language.csv`
+* **File:** `https://github.com/fawwazkhan008/language-detection-ml/blob/main/language.csv`
 * **Total Records:** 22,000
 * **Languages Covered:** 22
 
